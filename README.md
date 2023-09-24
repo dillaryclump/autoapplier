@@ -1,4 +1,4 @@
-This is a undetected web driver that can automate applying for jobs on linkedin and sending cold emails it uses openai api to generate a cover letter.
+This is a undetected web driver that can automate applying for jobs on linkedin and sending cold messages it uses openai api to generate a cover letter.
 
 to use this first add a private file that contains:
 
